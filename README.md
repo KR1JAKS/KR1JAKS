@@ -32,13 +32,13 @@
 </div>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><samp><b>Больше информации</b></samp></summary>
 <h2></h2><br>
 
 <p align="center">
   <samp>
-      <a href="https://visitcount.itsvg.in">
-          <img src="https://visitcount.itsvg.in/api?id=KR1JAKS&label=Profile%20Views&color=8&icon=0&pretty=true" />
+      <a href="#">
+          <img src="#" />
       </a>
   </samp>
 </p>
@@ -46,7 +46,7 @@
 <div align="center">
   <table>
     <tr>
-        <td><a href="https://github.com/anuraghazra/convoychat"><img align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/pin/?username=KR1JAKS&repo=convoychat"></a></td>
+
     </tr>
   </table>
 </div>
@@ -54,6 +54,8 @@
 <div align="center">
   <table>
     <tr>
+        <td><img align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api?username=KR1JAKS&show_icons=true&theme=highcontrast&locale=ru"></td>
+        <td><img align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KR1JAKS&hide_progress=false&theme=highcontrast&locale=ru&card_width=400px"></td>
     </tr>
   </table>
 </div>
