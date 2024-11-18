@@ -10,14 +10,13 @@
 <br>
 <br>
 <br>
-<br>
     
 ## 👩‍💻 Обо мне
 
 <div align="center">
     
- **Привет** <image src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height=15/> **!**
- **Меня зовут Владислав, я начинающий разработчик из России.**
+ **Привет** <image src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height=15/> **!** <br>
+ **Меня зовут Владислав, я начинающий разработчик из России**  <img src="https://raw.githubusercontent.com/VildMedPap/countryflags/4dd162cc9e888e74cfea900f63e8d9b6b9feb4fc/flags/russia-flag.svg" height="11"/> **.**
  
 </div>
 
@@ -56,8 +55,8 @@
 <div align="center">
   <table>
     <tr>
-        <td><img align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api?username=KR1JAKS&show_icons=true&theme=highcontrast&locale=ru"></td>
-        <td><img align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KR1JAKS&hide_progress=false&theme=highcontrast&locale=ru&card_width=400px"></td>
+        <td><img height=259 align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api?username=KR1JAKS&show_icons=true&theme=highcontrast&locale=ru"></td>
+        <td><img height=259 align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KR1JAKS&hide_progress=false&theme=highcontrast&locale=ru&card_width=400px"></td>
     </tr>
   </table>
 </div>
