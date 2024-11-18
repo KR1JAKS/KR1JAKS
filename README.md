@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
     <img src="https://i.imgur.com/x1qqHGp.gif" width=800 height=300/>
 </div>
@@ -36,8 +38,8 @@
 
 <p align="center">
   <samp>
-      <a href="#">
-          <img src="#" />
+      <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=KR1JAKS&label=Profile%20Views&color=8&icon=0&pretty=true" />
       </a>
   </samp>
 </p>
@@ -45,9 +47,6 @@
 <div align="center">
   <table>
     <tr>
-      <a href="https://visitcount.itsvg.in">
-          <img src="https://visitcount.itsvg.in/api?id=KR1JAKS&label=Profile%20Views&color=8&icon=0&pretty=true" />
-      </a>
     </tr>
   </table>
 </div>
