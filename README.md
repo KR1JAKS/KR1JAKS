@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/x1qqHGp.gif" width=800 height=300/>
+    <img src="https://i.imgur.com/x1qqHGp.gif" width=800 height=300/>
 </div>
 <br>
 
@@ -23,20 +23,9 @@
 
 ## 🐍 Мои коммиты:
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+    <img src="https://github.com/KR1JAKS/KR1JAKS/blob/output/github-snake-dark.svg" />
+</div>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
@@ -44,8 +33,9 @@
 
 <p align="center">
   <samp>
-  <a href="">
-  </a>
+      <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=KR1JAKS&label=Profile%20Views&color=8&icon=0&pretty=true" />
+      </a>
   </samp>
 </p>
 
@@ -62,5 +52,4 @@
     </tr>
   </table>
 </div>
-
 </details>
