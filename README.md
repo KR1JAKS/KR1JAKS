@@ -54,8 +54,6 @@
 <div align="center">
   <table>
     <tr>
-        <td><img height=259 align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api?username=KR1JAKS&show_icons=true&theme=highcontrast&locale=ru"></td>
-        <td><img height=259 align="center" alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KR1JAKS&hide_progress=false&theme=highcontrast&locale=ru&card_width=400px"></td>
     </tr>
   </table>
 </div>
