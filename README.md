@@ -39,7 +39,6 @@
 <p align="center">
   <samp>
       <a href="https://visitcount.itsvg.in">
-          <img src="https://visitcount.itsvg.in/api?id=KR1JAKS&label=Profile%20Views&color=8&icon=0&pretty=true" />
       </a>
   </samp>
 </p>
